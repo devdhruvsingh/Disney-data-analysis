@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
+
     <title>Disney Movies Box Office Analysis</title>
-</head>
-<body>
 
     <h1>Disney Movies Box Office Analysis (Python EDA)</h1>
 
@@ -93,5 +88,4 @@
         analysis, the project highlights patterns that can support strategic decision-making in the entertainment industry.
     </p>
 
-</body>
-</html>
+
